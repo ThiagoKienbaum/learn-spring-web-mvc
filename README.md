@@ -5,7 +5,7 @@
 
 Jedi Register   
   - Project based on [Digital Innovation One Bootcamp](https://web.digitalinnovation.one/);
-  - A register form to practice, Java and Spring Web MVC;
+  - A register form to practice Java and Spring Web MVC;
 
 ## Meta
 

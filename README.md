@@ -1,5 +1,5 @@
 # Learn Spring Web MVC
-> Simple projects to learn Spring Web MVC.
+> Simple project to learn Spring Web MVC.
 
 Jedi Register   
   - Project based on [Digital Innovation One Bootcamp](https://web.digitalinnovation.one/);

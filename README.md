@@ -10,8 +10,3 @@ Jedi Register
 ## Meta
 
 Thiago Kienbaum – [LinkedIn](https://www.linkedin.com/in/thiago-kienbaum/) – thiago.kienbaum@hotmail.com
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
-## Contributing
-
-1. Fork it (<https://github.com/ThiagoKienbaum/learn-spring-web-mvc/fork>)
